@@ -10,5 +10,5 @@ Relevant links:
 
 * [The dataset](https://huggingface.co/datasets/gigant/tib)
 * [The conference paper](https://hal.science/hal-04168911)
-* [A blog post introducing the dataset](TBA)
-* The [TIB AV-Portal](https://av.tib.eu/)
+* [A blog post introducing the dataset](https://giganttheo.github.io/tib)
+* [The TIB AV-Portal](https://av.tib.eu/)
